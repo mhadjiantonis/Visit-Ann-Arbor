@@ -74,5 +74,83 @@
     <string name="ice_cube_description">
         The Cube boasts three superior skating surfaces, and provides year-round recreation and training for individuals of all ages and skill levels.
     </string>
+    <string name="nat_history_museum_website">https://lsa.umich.edu/ummnh/</string>
+    <string name="nat_history_museum_map">
+        https://www.google.com/maps/place/University+of+Michigan+Museum+of+Natural+History/@42.2782941,-83.7344736,15z/data=!4m5!3m4!1s0x0:0x4fdbd3cfacc8dde6!8m2!3d42.2782941!4d-83.7344736
+    </string>
+    <string name="art_museum_website">http://www.umma.umich.edu/</string>
+    <string name="art_museum_map">
+        https://www.google.com/maps/place/University+of+Michigan+Museum+of+Art/@42.2753993,-83.7397348,15z/data=!4m5!3m4!1s0x0:0xc8cff62865e159ce!8m2!3d42.2753993!4d-83.7397348
+    </string>
+    <string name="hands_on_museum_website">http://www.aahom.org/</string>
+    <string name="hands_on_museum_map">
+        https://www.google.com/maps/place/Ann+Arbor+Hands-On+Museum/@42.2816444,-83.7465379,15z/data=!4m5!3m4!1s0x0:0x49f3f678c538e26f!8m2!3d42.2816444!4d-83.7465379
+    </string>
+    <string name="archeology_museum_website">https://lsa.umich.edu/kelsey/</string>
+    <string name="archelogy_museum_map">
+        https://www.google.com/maps/place/University+of+Michigan:+Kelsey+Museum+of+Archaeology/@42.2767137,-83.7413815,15z/data=!4m5!3m4!1s0x0:0x3cf3ae0521160085!8m2!3d42.2767137!4d-83.7413815
+    </string>
+    <string name="hill_auditorium_website">
+        https://www.music.umich.edu/about/facilities/central_campus/hill/
+    </string>
+    <string name="hill_auditorium_map">
+        https://www.google.com/maps/place/Hill+Auditorium/@42.2791138,-83.7390161,15z/data=!4m5!3m4!1s0x0:0x825ff43112bad153!8m2!3d42.2791138!4d-83.7390161
+    </string>
+    <string name="michigan_theater_website">http://www.michtheater.org/</string>
+    <string name="michigan_theater_map">
+        https://www.google.com/maps/place/Michigan+Theater/@42.2796608,-83.7419874,15z/data=!4m5!3m4!1s0x0:0x5fceaacaf34695ed!8m2!3d42.2796608!4d-83.7419874
+    </string>
+    <string name="kerrytown_website">http://kerrytown.com/</string>
+    <string name="kerrytown_map">
+        https://www.google.com/maps/place/Kerrytown+Market+%26+Shops/@42.28455,-83.7484971,17z/data=!3m1!4b1!4m5!3m4!1s0x883cae15c4b397b9:0x82edafecf0befe13!8m2!3d42.2845461!4d-83.7463084
+    </string>
+    <string name="mall_website">http://www.simon.com/mall/briarwood-mall</string>
+    <string name="mall_map">
+        https://www.google.com/maps/place/Briarwood+Mall/@42.24039,-83.746537,15z/data=!4m5!3m4!1s0x0:0x8bcc4027e6efdfc3!8m2!3d42.2404129!4d-83.7465933
+    </string>
+    <string name="farmers_market_website">
+        http://www.a2gov.org/departments/Parks-Recreation/parks-places/farmers-market/Pages/default.aspx
+    </string>
+    <string name="farmers_market_map">
+        https://www.google.com/maps/place/Ann+Arbor+Farmers+Market/@42.283908,-83.7485497,17z/data=!3m1!4b1!4m5!3m4!1s0x883cae160996500d:0x10ba5066906402d3!8m2!3d42.283908!4d-83.746361
+    </string>
+    <string name="arboretum_website">http://www.lsa.umich.edu/mbg/see/NicholsArboretum.asp</string>
+    <string name="arboretum_map">
+        https://www.google.com/maps/place/University+of+Michigan:+Nichols+Arboretum/@42.2793164,-83.7347305,15z/data=!4m5!3m4!1s0x0:0xa08f10b09b351dca!8m2!3d42.280613!4d-83.7269166
+    </string>
+    <string name="botanical_gardens_website">http://lsa.umich.edu/mbg/see/matthaei.asp</string>
+    <string name="botanical_gardens_map">
+        https://www.google.com/maps/place/Matthaei+Botanical+Gardens/@42.2994081,-83.6621599,15z/data=!4m5!3m4!1s0x0:0x98f029f1869e4017!8m2!3d42.2994081!4d-83.6621599
+    </string>
+    <string name="gallup_park_website">
+        http://www.a2gov.org/departments/Parks-Recreation/parks-places/Pages/Gallup.aspx
+    </string>
+    <string name="gallup_park_map">
+        https://www.google.com/maps/place/Gallup+Park/@42.2748542,-83.701621,16z/data=!4m5!3m4!1s0x0:0xb4bd525408ec80d4!8m2!3d42.2730121!4d-83.6914176
+    </string>
+    <string name="bird_hills_website">
+        http://www.a2gov.org/departments/Parks-Recreation/parks-places/Pages/BirdHills.aspx
+    </string>
+    <string name="bird_hills_map">
+        https://www.google.com/maps/place/Bird+Hills+Nature+Area/@42.3028411,-83.7560365,15.82z/data=!4m5!3m4!1s0x0:0xf224061b8d33d148!8m2!3d42.3042216!4d-83.7610558
+    </string>
+    <string name="stadium_website">http://www.mgoblue.com/facilities/michigan-stadium.html</string>
+    <string name="stadium_map">
+        https://www.google.com/maps/place/Michigan+Stadium/@42.260801,-83.737319,15z/data=!4m5!3m4!1s0x0:0xd70008b6cc50d3ad!8m2!3d42.265837!4d-83.7486961
+    </string>
+    <string name="ice_arena_website">http://yost.umich.edu/</string>
+    <string name="ice_arena_map">
+        https://www.google.com/maps/place/Yost+Ice+Arena/@42.2673554,-83.7482302,16z/data=!4m5!3m4!1s0x0:0x925db7c4acd872de!8m2!3d42.2676164!4d-83.7409955
+    </string>
+    <string name="golf_course_website">
+        http://www.a2gov.org/departments/Parks-Recreation/parks-places/huron-hills/Pages/default.aspx
+    </string>
+    <string name="golf_course_map">
+        https://www.google.com/maps/place/Huron+Hills+Golf+Course/@42.2650251,-83.6900263,15z/data=!4m5!3m4!1s0x0:0x8811fbb81ad4bf47!8m2!3d42.2716565!4d-83.6968061
+    </string>
+    <string name="ice_cube_website">http://www.a2ice3.com/</string>
+    <string name="ice_cube_map">
+        https://www.google.com/maps/place/Ann+Arbor+Ice+Cube/@42.2542039,-83.7803992,17z/data=!4m5!3m4!1s0x0:0xe5989dd128b31826!8m2!3d42.2541998!4d-83.7782105
+    </string>
 
 </resources>
